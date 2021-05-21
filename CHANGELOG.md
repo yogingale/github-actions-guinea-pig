@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.1](https://github.com/yogingale/github-actions-guinea-pig/tree/0.1.1) (2021-05-21)
+
+**Merged pull requests:**
+
+- Update README.md [\#3](https://github.com/yogingale/github-actions-guinea-pig/pull/3)
+
 ## [v0.1.0](https://github.com/yogingale/github-actions-guinea-pig/tree/v0.1.0) (2021-05-21)
 
 **Merged pull requests:**
