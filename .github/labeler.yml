@@ -4,8 +4,8 @@ labels:
   title: "(^((E|e)nhance|(a|A)dd|(u|U)pdate))"
 - label: "bug"
   title: :(^((B|b)ug|(F|f)ix))"
-- label: "Minor"
+- label: "minor"
   size-above: 1
   size-below: 100
-- label: "Major"
+- label: "major"
   size-above: 100
