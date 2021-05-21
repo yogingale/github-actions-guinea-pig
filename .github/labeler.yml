@@ -1,0 +1,11 @@
+version: 1
+labels:
+- label: "feature"
+  title: "(^((E|e)nhance|(a|A)dd|feature))"
+- label: "bug"
+  title: :(^((B|b)ug|(F|f)ix))"
+- label: "Minor"
+  size-above: 9
+  size-below: 100
+- label: "Major"
+  size-above: 100
