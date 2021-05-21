@@ -7,4 +7,3 @@ Repository to try out various github actions
 * [update-changelog](https://github.com/marketplace/actions/update-changelog) - Updates changelog
 
 ## Actions in test:
-
