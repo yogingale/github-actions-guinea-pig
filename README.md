@@ -1,6 +1,8 @@
 # github-actions-guinea-pig
 
-![CI build](https://github.com/yogingale/github-actions-guinea-pig/workflows/Label%20PRs/badge.svg?branch=main)
+![CI build](https://github.com/yogingale/github-actions-guinea-pig/workflows/Label%20PRs/badge.svg?branch=main)  
+![CI build](https://github.com/yogingale/github-actions-guinea-pig/workflows/Release%20Drafter/badge.svg?branch=main)  
+![CI build](https://github.com/yogingale/github-actions-guinea-pig/workflows/Update%20Changelog/badge.svg?branch=main)  
 
 Repository to try out various github actions
 
