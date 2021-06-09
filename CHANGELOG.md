@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.3](https://github.com/yogingale/github-actions-guinea-pig/tree/0.1.3) (2021-06-09)
+
+**Merged pull requests:**
+
+- Add Github action badges [\#6](https://github.com/yogingale/github-actions-guinea-pig/pull/6)
+
 ## [0.1.2](https://github.com/yogingale/github-actions-guinea-pig/tree/0.1.2) (2021-05-21)
 
 **Merged pull requests:**
