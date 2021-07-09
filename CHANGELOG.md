@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.2.0](https://github.com/yogingale/github-actions-guinea-pig/tree/0.2.0) (2021-07-09)
+
+**Merged pull requests:**
+
+- Update release tag from patch to minor [\#7](https://github.com/yogingale/github-actions-guinea-pig/pull/7)
+
 ## [0.1.3](https://github.com/yogingale/github-actions-guinea-pig/tree/0.1.3) (2021-06-09)
 
 **Merged pull requests:**
