@@ -1,6 +1,16 @@
 # Changelog
 
+## [0.4.0](https://github.com/yogingale/github-actions-guinea-pig/tree/0.4.0) (2022-01-21)
+
+**Merged pull requests:**
+
+- test changelog [\#9](https://github.com/yogingale/github-actions-guinea-pig/pull/9)
+
 ## [0.3.0](https://github.com/yogingale/github-actions-guinea-pig/tree/0.3.0) (2021-07-09)
+
+**Merged pull requests:**
+
+- Update release-drafter.yml [\#8](https://github.com/yogingale/github-actions-guinea-pig/pull/8)
 
 ## [0.2.0](https://github.com/yogingale/github-actions-guinea-pig/tree/0.2.0) (2021-07-09)
 
@@ -30,7 +40,6 @@
 
 **Merged pull requests:**
 
-- Update release-drafter.yml [\#8](https://github.com/yogingale/github-actions-guinea-pig/pull/8)
 - Add changelog updater [\#2](https://github.com/yogingale/github-actions-guinea-pig/pull/2)
 - \[minor\] Add version resolver [\#1](https://github.com/yogingale/github-actions-guinea-pig/pull/1)
 
